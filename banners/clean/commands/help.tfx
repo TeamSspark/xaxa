@@ -1,0 +1,23 @@
+<<$clear>>[8;23;74t
+            [97m┌───────────┬──────────────────────────────────────────┐
+            [97m│ [38;2;143;0;255mCLEAR     [97m│ [97mClear the terminal screen.               │
+            [97m│ [38;2;143;0;255mHELP      [97m│ [97mView this exact banner.                  │
+            [97m│ [38;2;143;0;255mMETHODS   [97m│ [97mView the methods list banner.            │
+            [97m│ [38;2;143;0;255mPLAN      [97m│ [97mView your plan details.                  │
+            [97m│ [38;2;143;0;255mECHO      [97m│ [97mEcho back the provided text.             │
+            [97m│ [38;2;143;0;255mLOOKUP    [97m│ [97mLookup a target, Cfx code, or phone #.   │
+            [97m│ [38;2;143;0;255mRECENT    [97m│ [97mView your last 24 hours of attacks.      │
+            [97m│ [38;2;143;0;255mPASSWD    [97m│ [97mChange your password/api-key on the cnc. │
+            [97m│ [38;2;143;0;255mPING      [97m│ [97mICMP ping a target IP address.           │
+            [97m│ [38;2;143;0;255mPAPING    [97m│ [97mTCP ping a target IP address.            │
+            [97m│ [38;2;143;0;255mTHEMES    [97m│ [97mChange the appearence of the CNC.        │
+            [97m│ [38;2;143;0;255mONGOING   [97m│ [97mView ongoing attacks in the CNC.         │
+            [97m│ [38;2;143;0;255mENCRYPT   [97m│ [97mEncrypt & echo back the provided text.   │
+            [97m│ [38;2;143;0;255mUSERS     [97m│ [97mView all available users commands.       │
+            [97m│ [38;2;143;0;255mERASE     [97m│ [97mManage attack logs in the CNC.           │
+            [97m│ [38;2;143;0;255mEDITALL   [97m│ [97mView the editall command usage.          │
+            [97m│ [38;2;143;0;255mATTACKS   [97m│ [97mEnable/disable attacks in the CNC & API. │
+            [97m│ [38;2;143;0;255mLOGS      [97m│ [97mView all available logs commands.        │
+            [97m│ [38;2;143;0;255mBROADCAST [97m│ [97mBroadcast a message to online users.     │
+            [97m│ [38;2;143;0;255mCOMMANDS  [97m│ [97mView CNC commands list. (full screen)    │
+            [97m└───────────┴──────────────────────────────────────────┘

@@ -1,0 +1,9 @@
+<<$clear>>[ [38;5;129mPlan Details[0m ]
+[38;5;15m │ [38;5;15mUsername:     [ [38;5;129m<<$user.username>>[38;5;15m ]
+[38;5;15m │ [38;5;15mConcurrents:  [ [38;5;129m<<$user.concurrents>>[38;5;15m ]
+[38;5;15m │ [38;5;15mMax Time:     [ [38;5;129m<<$user.max_time>>[38;5;15m ]
+[38;5;15m │ [38;5;15mCooldown:     [ [38;5;129m<<$user.cooldown>>[38;5;15m ]
+[ [38;5;129mSocial Media[0m ]
+[38;5;15m │ [38;5;15mDiscord:      [ [38;5;129mhttps://discord.gg/gbps[38;5;15m ]
+[38;5;15m │ [38;5;15mTelegram:     [ [38;5;129mSOON..[38;5;15m ]
+[38;5;15mType "[38;5;129mhelp[38;5;15m" [38;5;15mTo see all commands.

@@ -1,0 +1,413 @@
+[Thu, 14 Nov 2024 15:59:21 UTC] USER ADDED || User creator: root || Username: retro | Password: 3333 | VIP: 2147483647 | Reseller: true | Mod: true | Admin: true | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 10000000 | Concurrents: 999 | Locked: 0 | Plan Days: 9999999
+[Thu, 14 Nov 2024 16:11:06 UTC] USER EDITED || User editor: root || User who was edited: root | What was changed: VIP | New VIP Status: true
+[Thu, 14 Nov 2024 19:19:42 UTC] USERS ADDED || User creator: root || Users created: 2 | VIP: 0 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 2 | Concurrents: 2 | Locked: 0 | Plan Days: 30
+[Thu, 14 Nov 2024 19:22:08 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: thsziesfzsuxjo
+[Thu, 14 Nov 2024 19:22:13 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: fcyghtrffqiuw
+[Thu, 14 Nov 2024 20:18:49 UTC] USER ADDED || User creator: root || Username: test | Password: test | VIP: 1731874723 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 120 | Concurrents: 1 | Locked: 0 | Plan Days: 3
+[Sat, 16 Nov 2024 15:41:54 UTC] root changed retro's password to 3321
+[Sun, 17 Nov 2024 09:06:07 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: raw
+[Sun, 17 Nov 2024 09:06:15 UTC] ROLES REMOVE || User editor: retro || User who was edited: retro | What was changed: Roles | Role removed: raw
+[Sun, 17 Nov 2024 09:24:37 UTC] USER EDITED || User editor: retro || User who was edited: test | What was changed: Expiry | Days Added: 3.00 | New Expiry: 4 days
+[Sun, 17 Nov 2024 09:24:39 UTC] USER EDITED || User editor: retro || User who was edited: test | What was changed: Expiry | Days Added: 3.00 | New Expiry: 7 days
+[Sun, 17 Nov 2024 10:06:10 UTC] USER EDITED || User editor: retro || User who was edited: test | What was changed: Concurrents | New Concurrents: 3
+[Sun, 17 Nov 2024 10:20:34 UTC] USER EDITED || User editor: retro || User who was edited: test | What was changed: Bypass Power Saving | New Bypass Power Saving Status: true
+[Sun, 17 Nov 2024 10:20:51 UTC] USER EDITED || User editor: retro || User who was edited: test | What was changed: Bypass Spam Protection | New Bypass Spam Protection Status: true
+[Sun, 17 Nov 2024 14:39:26 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: raw
+[Sun, 17 Nov 2024 18:59:21 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: lone
+[Mon, 18 Nov 2024 11:01:53 UTC] USER ADDED || User creator: root || Username: retro | Password: retro | VIP: 2147483647 | Reseller: true | Mod: true | Admin: true | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 9999 | Concurrents: 9999 | Locked: 0 | Plan Days: 9999
+[Mon, 18 Nov 2024 11:02:15 UTC] USER EDITED || User editor: root || User who was edited: retro | What was changed: Max Time | New Max Time: 999999 seconds
+[Mon, 18 Nov 2024 11:03:20 UTC] ROLES ADD || User editor: root || User who was edited: root | What was changed: Roles | Role added: lone
+[Mon, 18 Nov 2024 11:03:27 UTC] ROLES ADD || User editor: root || User who was edited: root | What was changed: Roles | Role added: raw
+[Mon, 18 Nov 2024 11:03:43 UTC] ROLES ADD || User editor: root || User who was edited: retro | What was changed: Roles | Role added: lone
+[Mon, 18 Nov 2024 11:03:47 UTC] ROLES ADD || User editor: root || User who was edited: retro | What was changed: Roles | Role added: raw
+[Mon, 18 Nov 2024 12:05:16 UTC] ROLES ADD || User editor: root || User who was edited: root | What was changed: Roles | Role added: main_network
+[Mon, 18 Nov 2024 12:07:19 UTC] USER EDITED || User editor: root || User who was edited: root | What was changed: VIP | New VIP Status: true
+[Mon, 18 Nov 2024 13:48:00 UTC] root added 5 days to all users expiry
+[Mon, 18 Nov 2024 14:55:14 UTC] USERS ADDED || User creator: root || Users created: 20 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999999
+[Mon, 18 Nov 2024 15:15:24 UTC] retro changed retro's password to 3321
+[Mon, 18 Nov 2024 18:46:50 UTC] USER ADDED || User creator: retro || Username: cunt | Password: cunty | VIP: 1732560392 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 200 | Concurrents: 2 | Locked: 0 | Plan Days: 7
+[Mon, 18 Nov 2024 18:48:29 UTC] ROLES ADD || User editor: retro || User who was edited: cunt | What was changed: Roles | Role added: raw
+[Mon, 18 Nov 2024 18:48:36 UTC] ROLES ADD || User editor: retro || User who was edited: cunt | What was changed: Roles | Role added: lone
+[Tue, 19 Nov 2024 03:30:25 UTC] USER ADDED || User creator: root || Username: xx3 | Password: nigger | VIP: 2147483647 | Reseller: true | Mod: false | Admin: false | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999999
+[Tue, 19 Nov 2024 03:30:46 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Concurrents | New Concurrents: 3
+[Tue, 19 Nov 2024 15:49:04 UTC] USER ADDED || User creator: retro || Username: exno | Password: 3333 | VIP: 1818344933 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 1 | Locked: 0 | Plan Days: 9999
+[Tue, 19 Nov 2024 15:49:12 UTC] ROLES ADD || User editor: retro || User who was edited: exno | What was changed: Roles | Role added: raw
+[Tue, 19 Nov 2024 15:49:30 UTC] ROLES REMOVE || User editor: retro || User who was edited: exno | What was changed: Roles | Role removed: raw
+[Tue, 19 Nov 2024 15:49:38 UTC] ROLES ADD || User editor: retro || User who was edited: exno | What was changed: Roles | Role added: lone
+[Tue, 19 Nov 2024 16:33:57 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | New Expiry: 10000000000000000.00 days
+[Tue, 19 Nov 2024 18:02:43 UTC] USER ADDED || User creator: retro || Username: hitman | Password: 3332 | VIP: 1818352945 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 500 | Concurrents: 2 | Locked: 0 | Plan Days: 999
+[Tue, 19 Nov 2024 18:02:50 UTC] ROLES ADD || User editor: retro || User who was edited: hitman | What was changed: Roles | Role added: lone
+[Tue, 19 Nov 2024 18:02:55 UTC] ROLES ADD || User editor: retro || User who was edited: hitman | What was changed: Roles | Role added: raw
+[Tue, 19 Nov 2024 20:01:44 UTC] USER ADDED || User creator: retro || Username: stone | Password: boner | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 200 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Tue, 19 Nov 2024 20:05:08 UTC] retro changed stone's password to 3321
+[Tue, 19 Nov 2024 20:52:56 UTC] USER ADDED || User creator: retro || Username: sushi | Password: 3332 | VIP: 1818363169 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 200 | Concurrents: 1 | Locked: 0 | Plan Days: 9999
+[Tue, 19 Nov 2024 20:53:02 UTC] ROLES ADD || User editor: retro || User who was edited: sushi | What was changed: Roles | Role added: raw
+[Tue, 19 Nov 2024 20:53:08 UTC] ROLES ADD || User editor: retro || User who was edited: sushi | What was changed: Roles | Role added: lone
+[Wed, 20 Nov 2024 14:30:35 UTC] USER ADDED || User creator: root || Username: lost | Password: solost123 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Wed, 20 Nov 2024 15:02:55 UTC] ROLES ADD || User editor: root || User who was edited: lost1 | What was changed: Roles | Role added: raw
+[Wed, 20 Nov 2024 17:19:54 UTC] USER ADDED || User creator: retro || Username: juju | Password: kencarson | VIP: 1734715185 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 200 | Concurrents: 1 | Locked: 0 | Plan Days: 30
+[Wed, 20 Nov 2024 17:20:00 UTC] ROLES ADD || User editor: retro || User who was edited: juju | What was changed: Roles | Role added: lone
+[Wed, 20 Nov 2024 17:38:23 UTC] USER ADDED || User creator: retro || Username: ecrimes | Password: 2222 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 300 | Concurrents: 4 | Locked: 0 | Plan Days: 9999
+[Wed, 20 Nov 2024 17:38:31 UTC] ROLES ADD || User editor: retro || User who was edited: ecrimes | What was changed: Roles | Role added: lone
+[Wed, 20 Nov 2024 17:38:35 UTC] ROLES ADD || User editor: retro || User who was edited: ecrimes | What was changed: Roles | Role added: raw
+[Wed, 20 Nov 2024 17:39:52 UTC] USER ADDED || User creator: retro || Username: dave | Password: 3333 | VIP: 1818437987 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 200 | Concurrents: 1 | Locked: 0 | Plan Days: 9999
+[Wed, 20 Nov 2024 17:40:00 UTC] ROLES ADD || User editor: retro || User who was edited: dave | What was changed: Roles | Role added: lone
+[Wed, 20 Nov 2024 17:40:35 UTC] USER ADDED || User creator: retro || Username: peer | Password: 4444 | VIP: 1818438029 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 200 | Concurrents: 1 | Locked: 0 | Plan Days: 9999
+[Wed, 20 Nov 2024 17:40:39 UTC] ROLES ADD || User editor: retro || User who was edited: peer | What was changed: Roles | Role added: lone
+[Thu, 21 Nov 2024 02:24:37 UTC] USER ADDED || User creator: root || Username: zerg | Password: 192385 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 10 | Max Time: 200 | Concurrents: 1 | Locked: 0 | Plan Days: 9999999
+[Thu, 21 Nov 2024 02:57:31 UTC] USER ADDED || User creator: root || Username: pollz | Password: pollz | VIP: 2147483647 | Reseller: false | Mod: false | Admin: true | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999999
+[Thu, 21 Nov 2024 03:00:37 UTC] ROLES ADD || User editor: root || User who was edited: kingston | What was changed: Roles | Role added: lone
+[Thu, 21 Nov 2024 15:05:15 UTC] USER ADDED || User creator: root || Username: begs | Password: ggbro | VIP: 0 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999999
+[Thu, 21 Nov 2024 15:05:23 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: begs
+[Thu, 21 Nov 2024 15:06:13 UTC] USER ADDED || User creator: root || Username: begs | Password: ggbro | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 9999
+[Thu, 21 Nov 2024 15:06:26 UTC] root changed begs's password to noballs
+[Thu, 21 Nov 2024 15:07:31 UTC] root changed begs's password to balls
+[Thu, 21 Nov 2024 15:11:03 UTC] ROLES ADD || User editor: root || User who was edited: begs | What was changed: Roles | Role added: lone
+[Thu, 21 Nov 2024 15:15:59 UTC] USER EDITED || User editor: root || User who was edited: begs | What was changed: Concurrents | New Concurrents: 3
+[Thu, 21 Nov 2024 17:41:19 UTC] USER ADDED || User creator: root || Username: huntiez | Password: huntiez | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Thu, 21 Nov 2024 17:53:21 UTC] USER ADDED || User creator: root || Username: Legacy | Password: Legacy | VIP: 1740765194 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999999
+[Thu, 21 Nov 2024 18:00:41 UTC] ROLES ADD || User editor: root || User who was edited: LegacyUD | What was changed: Roles | Role added: raw
+[Thu, 21 Nov 2024 18:00:50 UTC] ROLES ADD || User editor: root || User who was edited: LegacyUD | What was changed: Roles | Role added: lone
+[Thu, 21 Nov 2024 18:59:32 UTC] USER ADDED || User creator: root || Username: account1 | Password: account1 | VIP: 0 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999999999
+[Thu, 21 Nov 2024 19:00:00 UTC] USER ADDED || User creator: root || Username: sigma | Password: gyat | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 800 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Thu, 21 Nov 2024 19:00:10 UTC] USER EDITED || User editor: root || User who was edited: sigma | What was changed: API Access | New API Access Status: true
+[Thu, 21 Nov 2024 19:00:17 UTC] USER EDITED || User editor: root || User who was edited: sigma | What was changed: Concurrents | New Concurrents: 9
+[Thu, 21 Nov 2024 19:00:45 UTC] root changed sigma's password to sigma
+[Thu, 21 Nov 2024 19:01:02 UTC] ROLES ADD || User editor: root || User who was edited: sigma | What was changed: Roles | Role added: lone
+[Thu, 21 Nov 2024 19:01:06 UTC] ROLES ADD || User editor: root || User who was edited: sigma | What was changed: Roles | Role added: raw
+[Thu, 21 Nov 2024 19:44:46 UTC] USER ADDED || User creator: root || Username: udman | Password: udman | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Thu, 21 Nov 2024 19:47:16 UTC] ROLES ADD || User editor: root || User who was edited: udman1337 | What was changed: Roles | Role added: raw
+[Thu, 21 Nov 2024 20:02:18 UTC] ROLES ADD || User editor: root || User who was edited: udman1337 | What was changed: Roles | Role added: lone
+[Thu, 21 Nov 2024 20:02:31 UTC] USER EDITED || User editor: root || User who was edited: udman1337 | What was changed: API Access | New API Access Status: true
+[Thu, 21 Nov 2024 20:37:48 UTC] USER ADDED || User creator: root || Username: pirxcy | Password: nomoreskids123 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 10 | Max Time: 120 | Concurrents: 1 | Locked: 0 | Plan Days: 99999
+[Thu, 21 Nov 2024 20:51:54 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: API Access | New API Access Status: false
+[Thu, 21 Nov 2024 20:53:52 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: API Access | New API Access Status: true
+[Thu, 21 Nov 2024 22:24:13 UTC] USER ADDED || User creator: root || Username: jake | Password: jake | VIP: 1732400645 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 1 | Locked: 0 | Plan Days: 2
+[Fri, 22 Nov 2024 06:07:00 UTC] USER ADDED || User creator: root || Username: change | Password: change | VIP: 2147483647 | Reseller: true | Mod: true | Admin: true | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 800 | Concurrents: 5 | Locked: 0 | Plan Days: 999999
+[Fri, 22 Nov 2024 06:09:44 UTC] ROLES ADD || User editor: root || User who was edited: neyo | What was changed: Roles | Role added: raw
+[Fri, 22 Nov 2024 06:22:43 UTC] USER EDITED || User editor: neyo || User who was edited: jake | What was changed: Expiry | Days Added: 100.00 | New Expiry: -19948 days
+[Fri, 22 Nov 2024 06:23:27 UTC] USER EDITED || User editor: neyo || User who was edited: jake | What was changed: Expiry | Days Added: 4000.00 | New Expiry: -16048 days
+[Fri, 22 Nov 2024 06:23:47 UTC] USER EDITED || User editor: neyo || User who was edited: jake | What was changed: Expiry | New Expiry: 4000.00 days
+[Fri, 22 Nov 2024 08:33:39 UTC] USER ADDED || User creator: root || Username: sky | Password: skyyy | VIP: 0 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 400 | Concurrents: 5 | Locked: 0 | Plan Days: 99999
+[Fri, 22 Nov 2024 08:34:20 UTC] ROLES ADD || User editor: root || User who was edited: skyy | What was changed: Roles | Role added: lone
+[Fri, 22 Nov 2024 08:35:16 UTC] USER EDITED || User editor: root || User who was edited: skyy | What was changed: API Access | New API Access Status: true
+[Fri, 22 Nov 2024 11:54:05 UTC] ROLES REMOVE || User editor: root || User who was edited: begs | What was changed: Roles | Role removed: lone
+[Fri, 22 Nov 2024 12:49:37 UTC] ROLES REMOVE || User editor: root || User who was edited: neyo | What was changed: Roles | Role removed: raw
+[Fri, 22 Nov 2024 12:50:15 UTC] ROLES ADD || User editor: root || User who was edited: neyo | What was changed: Roles | Role added: raw
+[Fri, 22 Nov 2024 13:47:55 UTC] USER ADDED || User creator: root || Username: changeuser | Password: changepass | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Fri, 22 Nov 2024 16:39:39 UTC] USER ADDED || User creator: root || Username: lured | Password: lured | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: false | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 9999
+[Fri, 22 Nov 2024 16:40:11 UTC] USER EDITED || User editor: root || User who was edited: lured | What was changed: Bypass Spam Protection | New Bypass Spam Protection Status: true
+[Fri, 22 Nov 2024 16:41:47 UTC] root changed lured's password to lured
+[Fri, 22 Nov 2024 16:43:40 UTC] ROLES ADD || User editor: root || User who was edited: luredd | What was changed: Roles | Role added: raw
+[Fri, 22 Nov 2024 16:43:55 UTC] ROLES ADD || User editor: root || User who was edited: luredd | What was changed: Roles | Role added: lone
+[Fri, 22 Nov 2024 17:11:16 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 9999.00 | New Expiry: 10003 days
+[Fri, 22 Nov 2024 17:14:18 UTC] USER ADDED || User creator: retro || Username: o0x | Password: 33332 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 200 | Concurrents: 2 | Locked: 0 | Plan Days: 9999
+[Fri, 22 Nov 2024 17:14:31 UTC] ROLES ADD || User editor: retro || User who was edited: o0x | What was changed: Roles | Role added: lone
+[Fri, 22 Nov 2024 17:14:41 UTC] ROLES ADD || User editor: retro || User who was edited: o0x | What was changed: Roles | Role added: raw
+[Fri, 22 Nov 2024 18:01:46 UTC] retro changed udman1337's password to 33333
+[Fri, 22 Nov 2024 23:17:50 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: priv
+[Sat, 23 Nov 2024 04:53:11 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Concurrents | New Concurrents: 6
+[Sat, 23 Nov 2024 05:15:12 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: exno
+[Sat, 23 Nov 2024 11:13:06 UTC] USER ADDED (PRESET: titanium-life) || User creator: retro || User who was created: spigg
+[Sat, 23 Nov 2024 12:23:58 UTC] root changed udman1337's password to udman1337
+[Sat, 23 Nov 2024 12:29:05 UTC] retro changed udman1337's password to 3321
+[Sat, 23 Nov 2024 12:29:08 UTC] retro changed udman1337's password to 2213
+[Sat, 23 Nov 2024 12:29:11 UTC] retro changed udman1337's password to 1142
+[Sat, 23 Nov 2024 12:29:26 UTC] USER EDITED || User editor: retro || User who was edited: udman1337 | What was changed: Max Time | New Max Time: 14400 seconds
+[Sat, 23 Nov 2024 13:16:34 UTC] USER ADDED || User creator: root || Username: rat | Password: ratt | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 9999
+[Sat, 23 Nov 2024 13:35:25 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: sigma
+[Sat, 23 Nov 2024 20:46:49 UTC] USER ADDED (PRESET: gold-life) || User creator: retro || User who was created: ksa
+[Sun, 24 Nov 2024 03:30:04 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: xx3
+[Sun, 24 Nov 2024 03:31:21 UTC] USER ADDED (PRESET: titanium-life) || User creator: root || User who was created: xx3
+[Sun, 24 Nov 2024 03:31:31 UTC] ROLES ADD || User editor: root || User who was edited: xx3 | What was changed: Roles | Role added: raw
+[Sun, 24 Nov 2024 03:32:27 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Max Time | New Max Time: 500 seconds
+[Sun, 24 Nov 2024 03:32:32 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Concurrents | New Concurrents: 6
+[Sun, 24 Nov 2024 03:32:43 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: API Access | New API Access Status: true
+[Sun, 24 Nov 2024 03:36:02 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Bypass Power Saving | New Bypass Power Saving Status: true
+[Sun, 24 Nov 2024 03:36:14 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Bypass Spam Protection | New Bypass Spam Protection Status: true
+[Sun, 24 Nov 2024 03:38:43 UTC] ROLES ADD || User editor: root || User who was edited: begs | What was changed: Roles | Role added: lone
+[Sun, 24 Nov 2024 04:00:12 UTC] USER ADDED (PRESET: diamond-life) || User creator: root || User who was created: gay
+[Sun, 24 Nov 2024 04:00:44 UTC] USER ADDED (PRESET: diamond-life) || User creator: root || User who was created: gaya
+[Sun, 24 Nov 2024 12:35:50 UTC] ROLES ADD || User editor: retro || User who was edited: ariez | What was changed: Roles | Role added: lone
+[Sun, 24 Nov 2024 19:39:41 UTC] USER ADDED || User creator: retro || Username: arsoc | Password: arsoc111 | VIP: 1818790774 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 60 | Concurrents: 1 | Locked: 0 | Plan Days: 9999
+[Sun, 24 Nov 2024 19:39:50 UTC] USER EDITED || User editor: retro || User who was edited: arsoc | What was changed: Cooldown | New Cooldown: 30 seconds
+[Sun, 24 Nov 2024 21:38:06 UTC] USER ADDED || User creator: retro || Username: exno | Password: exno111 | VIP: 2147483647 | Reseller: true | Mod: true | Admin: true | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 999999 | Concurrents: 4 | Locked: 0 | Plan Days: 9999999
+[Sun, 24 Nov 2024 21:38:12 UTC] ROLES ADD || User editor: retro || User who was edited: exno | What was changed: Roles | Role added: raw
+[Sun, 24 Nov 2024 21:38:17 UTC] ROLES ADD || User editor: retro || User who was edited: exno | What was changed: Roles | Role added: lone
+[Sun, 24 Nov 2024 21:38:26 UTC] ROLES ADD || User editor: retro || User who was edited: exno | What was changed: Roles | Role added: priv
+[Sun, 24 Nov 2024 21:52:52 UTC] USER ADDED || User creator: retro || Username: vile | Password: vile111 | VIP: 0 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 260 | Concurrents: 2 | Locked: 0 | Plan Days: 3333
+[Sun, 24 Nov 2024 21:53:01 UTC] USER EDITED || User editor: retro || User who was edited: vile | What was changed: VIP | New VIP Status: true
+[Sun, 24 Nov 2024 22:26:20 UTC] USER REMOVED (CNC) || User remover: retro || User who was removed: o0xx
+[Sun, 24 Nov 2024 22:30:24 UTC] ROLES ADD || User editor: retro || User who was edited: vile | What was changed: Roles | Role added: lone
+[Sun, 24 Nov 2024 22:49:19 UTC] USER ADDED || User creator: retro || Username: Nkrumah60 | Password: Nkrumah60111 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 1200 | Concurrents: 8 | Locked: 0 | Plan Days: 99999
+[Sun, 24 Nov 2024 22:49:30 UTC] ROLES ADD || User editor: retro || User who was edited: Nkrumah60 | What was changed: Roles | Role added: lone
+[Sun, 24 Nov 2024 22:49:36 UTC] ROLES ADD || User editor: retro || User who was edited: Nkrumah60 | What was changed: Roles | Role added: raw
+[Sun, 24 Nov 2024 22:54:34 UTC] USER EDITED || User editor: retro || User who was edited: nkrumah60 | What was changed: Max Time | New Max Time: 99999999 seconds
+[Mon, 25 Nov 2024 04:17:37 UTC] USER EDITED || User editor: root || User who was edited: zergz | What was changed: Max Time | New Max Time: 400 seconds
+[Mon, 25 Nov 2024 04:17:52 UTC] USER EDITED || User editor: root || User who was edited: zergz | What was changed: Concurrents | New Concurrents: 3
+[Mon, 25 Nov 2024 04:18:06 UTC] USER EDITED || User editor: root || User who was edited: zergz | What was changed: Cooldown | New Cooldown: 0 seconds
+[Mon, 25 Nov 2024 04:18:25 UTC] ROLES ADD || User editor: root || User who was edited: zergz | What was changed: Roles | Role added: lone
+[Mon, 25 Nov 2024 04:19:55 UTC] USER EDITED || User editor: root || User who was edited: zergz | What was changed: API Access | New API Access Status: true
+[Mon, 25 Nov 2024 06:21:50 UTC] USER ADDED (PRESET: diamond-month) || User creator: retro || User who was created: xss
+[Mon, 25 Nov 2024 07:44:01 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Max Time | New Max Time: 560 seconds
+[Mon, 25 Nov 2024 11:41:47 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Max Time | New Max Time: 5000 seconds
+[Mon, 25 Nov 2024 11:42:01 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Bypass Soft Max Time | New Bypass Soft Max Time Status: true
+[Mon, 25 Nov 2024 11:42:14 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Bypass Blacklist | New Bypass Blacklist Status: true
+[Mon, 25 Nov 2024 14:15:00 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: spig
+[Mon, 25 Nov 2024 17:33:10 UTC] USER ADDED || User creator: retro || Username: slxve | Password: 33333 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999
+[Mon, 25 Nov 2024 17:33:16 UTC] ROLES ADD || User editor: retro || User who was edited: slxve | What was changed: Roles | Role added: lone
+[Mon, 25 Nov 2024 18:04:39 UTC] USER REMOVED (CNC) || User remover: retro || User who was removed: begs
+[Mon, 25 Nov 2024 19:09:22 UTC] USER ADDED (PRESET: gold-life) || User creator: retro || User who was created: iwhax
+[Mon, 25 Nov 2024 21:11:57 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 9999.00 | New Expiry: 10000 days
+[Mon, 25 Nov 2024 21:34:20 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 34.00 | New Expiry: 35 days
+[Mon, 25 Nov 2024 21:34:30 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 34.00 | New Expiry: 68 days
+[Mon, 25 Nov 2024 21:34:30 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 34.00 | New Expiry: 102 days
+[Mon, 25 Nov 2024 21:34:30 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 34.00 | New Expiry: 136 days
+[Mon, 25 Nov 2024 21:34:31 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 34.00 | New Expiry: 170 days
+[Mon, 25 Nov 2024 21:34:31 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 34.00 | New Expiry: 204 days
+[Mon, 25 Nov 2024 21:34:31 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 34.00 | New Expiry: 238 days
+[Mon, 25 Nov 2024 21:34:32 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Expiry | Days Added: 34.00 | New Expiry: 272 days
+[Mon, 25 Nov 2024 22:35:28 UTC] USER ADDED || User creator: retro || Username: artic | Password: artic111 | VIP: 1818887720 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 20 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Mon, 25 Nov 2024 22:35:32 UTC] ROLES ADD || User editor: retro || User who was edited: artic | What was changed: Roles | Role added: lone
+[Mon, 25 Nov 2024 22:39:05 UTC] USER ADDED (PRESET: diamond-life) || User creator: retro || User who was created: akasteve
+[Mon, 25 Nov 2024 22:40:08 UTC] ROLES REMOVE || User editor: retro || User who was edited: cunt | What was changed: Roles | Role removed: lone
+[Mon, 25 Nov 2024 22:40:13 UTC] ROLES ADD || User editor: retro || User who was edited: cunt | What was changed: Roles | Role added: lone
+[Tue, 26 Nov 2024 02:43:41 UTC] USER EDITED || User editor: root || User who was edited: xx3 | What was changed: Max Time | New Max Time: 10000 seconds
+[Tue, 26 Nov 2024 12:04:05 UTC] USER ADDED (PRESET: silver-month) || User creator: retro || User who was created: test
+[Tue, 26 Nov 2024 14:29:55 UTC] USER EDITED || User editor: retro || User who was edited: artic | What was changed: API Access | New API Access Status: true
+[Tue, 26 Nov 2024 15:39:34 UTC] USER EDITED || User editor: root || User who was edited: luredd | What was changed: API Access | New API Access Status: true
+[Tue, 26 Nov 2024 17:58:50 UTC] USER EDITED || User editor: retro || User who was edited: artic | What was changed: API Access | New API Access Status: false
+[Tue, 26 Nov 2024 19:39:22 UTC] USER EDITED || User editor: retro || User who was edited: artic | What was changed: API Access | New API Access Status: true
+[Tue, 26 Nov 2024 19:58:32 UTC] USER ADDED (PRESET: titanium-life) || User creator: retro || User who was created: organ
+[Tue, 26 Nov 2024 20:00:39 UTC] ROLES REMOVE || User editor: retro || User who was edited: cunt | What was changed: Roles | Role removed: raw
+[Tue, 26 Nov 2024 20:00:44 UTC] ROLES ADD || User editor: retro || User who was edited: cunt | What was changed: Roles | Role added: raw
+[Tue, 26 Nov 2024 20:02:27 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: VIP | New VIP Status: true
+[Tue, 26 Nov 2024 20:02:34 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: VIP | New VIP Status: true
+[Tue, 26 Nov 2024 20:06:07 UTC] ROLES ADD || User editor: retro || User who was edited: organ | What was changed: Roles | Role added: raw
+[Wed, 27 Nov 2024 14:46:20 UTC] USER EDITED || User editor: retro || User who was edited: artic | What was changed: Max Time | New Max Time: 220 seconds
+[Wed, 27 Nov 2024 14:48:35 UTC] USER ADDED (PRESET: diamond-life) || User creator: retro || User who was created: y2k
+[Wed, 27 Nov 2024 14:48:46 UTC] USER EDITED || User editor: retro || User who was edited: y2k | What was changed: Cooldown | New Cooldown: 0 seconds
+[Wed, 27 Nov 2024 14:49:01 UTC] ROLES ADD || User editor: retro || User who was edited: y2k | What was changed: Roles | Role added: lone
+[Wed, 27 Nov 2024 15:55:29 UTC] USER EDITED || User editor: retro || User who was edited: artic | What was changed: Bypass Power Saving | New Bypass Power Saving Status: true
+[Wed, 27 Nov 2024 17:08:49 UTC] USER EDITED || User editor: retro || User who was edited: organ | What was changed: Bypass Soft Max Time | New Bypass Soft Max Time Status: true
+[Wed, 27 Nov 2024 17:14:52 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: wicked
+[Wed, 27 Nov 2024 17:41:55 UTC] USER EDITED || User editor: retro || User who was edited: wicked | What was changed: Expiry | Days Added: 99999.00 | New Expiry: 100029 days
+[Wed, 27 Nov 2024 17:42:01 UTC] USER EDITED || User editor: retro || User who was edited: wicked | What was changed: VIP | New VIP Status: true
+[Wed, 27 Nov 2024 17:50:13 UTC] USER REMOVED (CNC) || User remover: retro || User who was removed: test
+[Wed, 27 Nov 2024 17:50:23 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: test
+[Wed, 27 Nov 2024 17:57:30 UTC] ROLES ADD || User editor: retro || User who was edited: test | What was changed: Roles | Role added: priv
+[Wed, 27 Nov 2024 18:37:02 UTC] USER REMOVED (CNC) || User remover: retro || User who was removed: test
+[Wed, 27 Nov 2024 18:39:32 UTC] USER ADDED (PRESET: titanium-life) || User creator: retro || User who was created: test
+[Wed, 27 Nov 2024 18:45:02 UTC] USER REMOVED (CNC) || User remover: retro || User who was removed: test
+[Wed, 27 Nov 2024 18:59:21 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Concurrents | New Concurrents: 4
+[Wed, 27 Nov 2024 19:54:04 UTC] USER ADDED (PRESET: silver-life) || User creator: retro || User who was created: rce
+[Wed, 27 Nov 2024 20:07:26 UTC] USER ADDED || User creator: retro || Username: syn | Password: syn11 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 30 | Max Time: 200 | Concurrents: 2 | Locked: 0 | Plan Days: 30
+[Wed, 27 Nov 2024 20:07:31 UTC] ROLES ADD || User editor: retro || User who was edited: syn | What was changed: Roles | Role added: lone
+[Thu, 28 Nov 2024 02:35:06 UTC] USER ADDED || User creator: root || Username: agony | Password: imafedlol09 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Thu, 28 Nov 2024 02:35:15 UTC] ROLES ADD || User editor: root || User who was edited: agony | What was changed: Roles | Role added: lone
+[Thu, 28 Nov 2024 07:34:14 UTC] USER ADDED || User creator: root || Username: ryim | Password: ryim | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 400 | Concurrents: 4 | Locked: 0 | Plan Days: 99999
+[Thu, 28 Nov 2024 07:34:21 UTC] ROLES ADD || User editor: root || User who was edited: ryim | What was changed: Roles | Role added: raw
+[Thu, 28 Nov 2024 09:16:24 UTC] ROLES REMOVE || User editor: root || User who was edited: exno | What was changed: Roles | Role removed: raw
+[Thu, 28 Nov 2024 15:44:14 UTC] USER ADDED (PRESET: diamond-month) || User creator: retro || User who was created: muntean
+[Thu, 28 Nov 2024 15:44:26 UTC] USER EDITED || User editor: retro || User who was edited: muntean | What was changed: Expiry | New Expiry: 7.00 days
+[Thu, 28 Nov 2024 16:14:53 UTC] USER EDITED || User editor: root || User who was edited: agony | What was changed: Concurrents | New Concurrents: 4
+[Thu, 28 Nov 2024 16:14:58 UTC] USER EDITED || User editor: root || User who was edited: agony | What was changed: Max Time | New Max Time: 180 seconds
+[Thu, 28 Nov 2024 16:25:22 UTC] USER EDITED || User editor: root || User who was edited: agony | What was changed: Concurrents | New Concurrents: 6
+[Thu, 28 Nov 2024 16:25:31 UTC] USER EDITED || User editor: root || User who was edited: agony | What was changed: Max Time | New Max Time: 260 seconds
+[Thu, 28 Nov 2024 16:39:41 UTC] USER ADDED (PRESET: diamond-month) || User creator: retro || User who was created: shock
+[Thu, 28 Nov 2024 17:09:38 UTC] USER ADDED (PRESET: titanium-life) || User creator: retro || User who was created: bleb
+[Thu, 28 Nov 2024 17:09:43 UTC] ROLES ADD || User editor: retro || User who was edited: bleb | What was changed: Roles | Role added: raw
+[Thu, 28 Nov 2024 20:41:08 UTC] ROLES ADD || User editor: retro || User who was edited: exno | What was changed: Roles | Role added: raw
+[Thu, 28 Nov 2024 21:14:28 UTC] ROLES ADD || User editor: root || User who was edited: root | What was changed: Roles | Role added: priv
+[Thu, 28 Nov 2024 21:28:48 UTC] USER EDITED || User editor: retro || User who was edited: vile | What was changed: API Access | New API Access Status: true
+[Thu, 28 Nov 2024 21:28:56 UTC] ROLES ADD || User editor: retro || User who was edited: vile | What was changed: Roles | Role added: raw
+[Thu, 28 Nov 2024 22:40:28 UTC] retro changed zergz's password to 22222
+[Thu, 28 Nov 2024 22:43:27 UTC] USER ADDED || User creator: retro || Username: roseapi | Password: 6d617186d0347ec453 | VIP: 1819147382 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: false | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Thu, 28 Nov 2024 22:46:57 UTC] ROLES ADD || User editor: retro || User who was edited: roseapi | What was changed: Roles | Role added: raw
+[Thu, 28 Nov 2024 22:47:12 UTC] USER EDITED || User editor: retro || User who was edited: roseapi | What was changed: Bypass Power Saving | New Bypass Power Saving Status: true
+[Thu, 28 Nov 2024 22:48:18 UTC] retro changed zergz's password to 33333
+[Fri, 29 Nov 2024 00:27:53 UTC] USER ADDED || User creator: exno || Username: Ttavrdo | Password: temp | VIP: 1810600058 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 30 | Max Time: 120 | Concurrents: 1 | Locked: 0 | Plan Days: 9090
+[Fri, 29 Nov 2024 07:13:22 UTC] USER ADDED (PRESET: titanium-life) || User creator: retro || User who was created: jaz
+[Fri, 29 Nov 2024 07:30:41 UTC] USER EDITED || User editor: retro || User who was edited: vile | What was changed: API Access | New API Access Status: false
+[Fri, 29 Nov 2024 07:30:51 UTC] ROLES REMOVE || User editor: retro || User who was edited: vile | What was changed: Roles | Role removed: raw
+[Fri, 29 Nov 2024 08:36:07 UTC] USER REMOVED (CNC) || User remover: retro || User who was removed: organ
+[Fri, 29 Nov 2024 13:06:29 UTC] ROLES ADD || User editor: retro || User who was edited: vile | What was changed: Roles | Role added: raw
+[Fri, 29 Nov 2024 13:21:22 UTC] USER EDITED || User editor: root || User who was edited: retro | What was changed: Concurrents | New Concurrents: 1
+[Fri, 29 Nov 2024 13:24:32 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: retro
+[Fri, 29 Nov 2024 13:25:48 UTC] USER ADDED || User creator: root || Username: retro | Password: 3334 | VIP: 2147483647 | Reseller: true | Mod: true | Admin: true | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 200000 | Concurrents: 5 | Locked: 0 | Plan Days: 99999
+[Fri, 29 Nov 2024 13:26:04 UTC] root changed retro's password to 3334
+[Fri, 29 Nov 2024 13:27:09 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: retro
+[Fri, 29 Nov 2024 13:28:13 UTC] USER ADDED || User creator: root || Username: retro | Password: 3335 | VIP: 2147483647 | Reseller: true | Mod: true | Admin: true | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 100000 | Concurrents: 5 | Locked: 0 | Plan Days: 99999
+[Fri, 29 Nov 2024 14:55:37 UTC] retro changed zergz's password to 33333
+[Fri, 29 Nov 2024 14:56:28 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: raw
+[Fri, 29 Nov 2024 14:58:53 UTC] USER ADDED (PRESET: platinum-life) || User creator: retro || User who was created: organ
+[Fri, 29 Nov 2024 15:03:17 UTC] USER EDITED || User editor: retro || User who was edited: vile | What was changed: API Access | New API Access Status: true
+[Fri, 29 Nov 2024 15:06:48 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: priv
+[Fri, 29 Nov 2024 15:06:54 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: lone
+[Fri, 29 Nov 2024 20:00:09 UTC] USER REMOVED (CNC) || User remover: exno || User who was removed: ttavrdo
+[Fri, 29 Nov 2024 20:49:12 UTC] ROLES ADD || User editor: root || User who was edited: vile | What was changed: Roles | Role added: priv
+[Fri, 29 Nov 2024 20:54:09 UTC] USER ADDED (PRESET: diamond-life) || User creator: root || User who was created: wpa
+[Fri, 29 Nov 2024 20:55:01 UTC] ROLES ADD || User editor: root || User who was edited: wpa | What was changed: Roles | Role added: lone
+[Fri, 29 Nov 2024 20:57:28 UTC] root changed wpa's password to wpaa
+[Fri, 29 Nov 2024 20:59:18 UTC] root changed wpa's password to wpaa
+[Fri, 29 Nov 2024 21:02:02 UTC] root changed wpa's password to sigma
+[Fri, 29 Nov 2024 21:40:30 UTC] USER EDITED || User editor: retro || User who was edited: artic | What was changed: Concurrents | New Concurrents: 6
+[Fri, 29 Nov 2024 21:40:40 UTC] USER EDITED || User editor: retro || User who was edited: artic | What was changed: Cooldown | New Cooldown: 0 seconds
+[Fri, 29 Nov 2024 21:40:51 UTC] USER EDITED || User editor: retro || User who was edited: artic | What was changed: Concurrents | New Concurrents: 5
+[Fri, 29 Nov 2024 21:43:53 UTC] ROLES ADD || User editor: retro || User who was edited: cunt | What was changed: Roles | Role added: priv
+[Fri, 29 Nov 2024 22:13:02 UTC] ROLES ADD || User editor: root || User who was edited: wpa | What was changed: Roles | Role added: raw
+[Sat, 30 Nov 2024 08:03:37 UTC] ROLES ADD || User editor: retro || User who was edited: organ | What was changed: Roles | Role added: raw
+[Sat, 30 Nov 2024 08:08:21 UTC] USER ADDED (PRESET: diamond-month) || User creator: retro || User who was created: acidhelps
+[Sat, 30 Nov 2024 11:52:03 UTC] USER EDITED || User editor: root || User who was edited: ryim | What was changed: Reseller | New Reseller Status: true
+[Sat, 30 Nov 2024 11:52:06 UTC] USER EDITED || User editor: root || User who was edited: ryim | What was changed: Mod | New Mod Status: true
+[Sat, 30 Nov 2024 11:52:11 UTC] USER EDITED || User editor: root || User who was edited: ryim | What was changed: Admin | New Admin Status: true
+[Sat, 30 Nov 2024 11:53:31 UTC] USER ADDED || User creator: ryim || Username: vytx | Password: changeme | VIP: 1735559592 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 20 | Max Time: 120 | Concurrents: 1 | Locked: 0 | Plan Days: 30
+[Sat, 30 Nov 2024 13:05:12 UTC] ROLES ADD || User editor: retro || User who was edited: ecrimeshatescom | What was changed: Roles | Role added: priv
+[Sat, 30 Nov 2024 13:12:27 UTC] USER EDITED || User editor: retro || User who was edited: cunt | What was changed: Username | New Username: biggestcunt
+[Sat, 30 Nov 2024 13:16:16 UTC] USER REMOVED (CNC) || User remover: retro || User who was removed: ecrimeshatescom
+[Sat, 30 Nov 2024 13:18:39 UTC] USER ADDED || User creator: retro || Username: ecrimes | Password: ecrimeshatescom | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 300 | Concurrents: 3 | Locked: 0 | Plan Days: 69420
+[Sat, 30 Nov 2024 13:18:57 UTC] ROLES ADD || User editor: retro || User who was edited: ecrimes | What was changed: Roles | Role added: raw
+[Sat, 30 Nov 2024 13:19:01 UTC] ROLES ADD || User editor: retro || User who was edited: ecrimes | What was changed: Roles | Role added: lone
+[Sat, 30 Nov 2024 13:19:14 UTC] ROLES ADD || User editor: retro || User who was edited: ecrimes | What was changed: Roles | Role added: priv
+[Sat, 30 Nov 2024 14:54:45 UTC] USER ADDED || User creator: root || Username: joy | Password: joyy | VIP: 1819292079 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 9999
+[Sat, 30 Nov 2024 14:54:55 UTC] ROLES ADD || User editor: root || User who was edited: joy | What was changed: Roles | Role added: lone
+[Sat, 30 Nov 2024 15:07:25 UTC] retro changed zergz's password to bigger
+[Sat, 30 Nov 2024 18:36:31 UTC] USER ADDED (PRESET: silver-month) || User creator: retro || User who was created: maryjane
+[Sat, 30 Nov 2024 19:01:28 UTC] USER EDITED || User editor: retro || User who was edited: maryjane | What was changed: VIP | New VIP Status: true
+[Sun, 01 Dec 2024 10:13:13 UTC] USER ADDED || User creator: root || Username: blade | Password: blade | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 200 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Sun, 01 Dec 2024 10:13:44 UTC] root changed blade's password to blade
+[Sun, 01 Dec 2024 10:22:32 UTC] ROLES ADD || User editor: root || User who was edited: blade | What was changed: Roles | Role added: lone
+[Sun, 01 Dec 2024 10:22:41 UTC] ROLES ADD || User editor: root || User who was edited: blade | What was changed: Roles | Role added: raw
+[Sun, 01 Dec 2024 10:38:54 UTC] USER ADDED || User creator: root || Username: kfc | Password: kfcc | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 200 | Concurrents: 3 | Locked: 0 | Plan Days: 9999
+[Sun, 01 Dec 2024 10:39:27 UTC] ROLES ADD || User editor: root || User who was edited: kfc | What was changed: Roles | Role added: lone
+[Sun, 01 Dec 2024 10:39:36 UTC] ROLES ADD || User editor: root || User who was edited: kfc | What was changed: Roles | Role added: raw
+[Sun, 01 Dec 2024 10:44:57 UTC] USER EDITED || User editor: ryim || User who was edited: blade | What was changed: API Access | New API Access Status: true
+[Sun, 01 Dec 2024 10:51:08 UTC] ROLES ADD || User editor: ryim || User who was edited: ryim | What was changed: Roles | Role added: lone
+[Sun, 01 Dec 2024 11:36:29 UTC] USER ADDED || User creator: ryim || Username: jaypee | Password: jaypee | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 5 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999999999
+[Sun, 01 Dec 2024 11:39:52 UTC] USER ADDED || User creator: ryim || Username: toast | Password: toast | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 5 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 99999
+[Sun, 01 Dec 2024 11:58:01 UTC] USER EDITED || User editor: ryim || User who was edited: toast | What was changed: Max Time | New Max Time: 600 seconds
+[Sun, 01 Dec 2024 12:04:55 UTC] ROLES ADD || User editor: ryim || User who was edited: toast | What was changed: Roles | Role added: raw
+[Sun, 01 Dec 2024 12:48:22 UTC] retro changed zergz's password to 33333
+[Sun, 01 Dec 2024 14:01:29 UTC] USER ADDED (PRESET: diamond-life) || User creator: retro || User who was created: spigey
+[Sun, 01 Dec 2024 14:03:57 UTC] USER EDITED || User editor: retro || User who was edited: spigey | What was changed: Max Time | New Max Time: 14400 seconds
+[Sun, 01 Dec 2024 14:04:07 UTC] USER EDITED || User editor: retro || User who was edited: spigey | What was changed: Cooldown | New Cooldown: 0 seconds
+[Sun, 01 Dec 2024 14:57:42 UTC] USER EDITED || User editor: ryim || User who was edited: vile | What was changed: Concurrents | New Concurrents: 7
+[Sun, 01 Dec 2024 15:06:55 UTC] USER EDITED || User editor: root || User who was edited: toast | What was changed: Max Time | New Max Time: 20000 seconds
+[Sun, 01 Dec 2024 15:07:15 UTC] USER EDITED || User editor: root || User who was edited: toast | What was changed: Max Time | New Max Time: 120 seconds
+[Sun, 01 Dec 2024 15:30:22 UTC] USER EDITED || User editor: ryim || User who was edited: ryim | What was changed: API Access | New API Access Status: true
+[Sun, 01 Dec 2024 15:55:38 UTC] ROLES ADD || User editor: root || User who was edited: jaypee | What was changed: Roles | Role added: lone
+[Sun, 01 Dec 2024 15:55:45 UTC] ROLES ADD || User editor: root || User who was edited: jaypee | What was changed: Roles | Role added: raw
+[Sun, 01 Dec 2024 15:55:56 UTC] USER EDITED || User editor: root || User who was edited: jaypee | What was changed: VIP | New VIP Status: true
+[Sun, 01 Dec 2024 16:37:38 UTC] USER EDITED || User editor: retro || User who was edited: maryjane | What was changed: API Access | New API Access Status: true
+[Sun, 01 Dec 2024 16:46:39 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: zergz
+[Sun, 01 Dec 2024 17:29:49 UTC] ROLES ADD || User editor: root || User who was edited: huntiezz | What was changed: Roles | Role added: lone
+[Sun, 01 Dec 2024 17:29:57 UTC] USER EDITED || User editor: root || User who was edited: huntiezz | What was changed: Concurrents | New Concurrents: 3
+[Sun, 01 Dec 2024 17:30:06 UTC] USER EDITED || User editor: root || User who was edited: huntiezz | What was changed: Max Time | New Max Time: 400 seconds
+[Sun, 01 Dec 2024 19:23:04 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: jonas
+[Sun, 01 Dec 2024 19:44:44 UTC] USER ADDED (PRESET: diamond-month) || User creator: retro || User who was created: lewns
+[Sun, 01 Dec 2024 19:45:05 UTC] USER EDITED || User editor: retro || User who was edited: lewns | What was changed: Expiry | New Expiry: 3.00 days
+[Sun, 01 Dec 2024 19:48:31 UTC] ROLES ADD || User editor: retro || User who was edited: lewns | What was changed: Roles | Role added: lone
+[Sun, 01 Dec 2024 22:07:55 UTC] USER EDITED || User editor: root || User who was edited: roseapi | What was changed: Concurrents | New Concurrents: 20
+[Sun, 01 Dec 2024 22:08:14 UTC] USER EDITED || User editor: root || User who was edited: roseapi | What was changed: Concurrents | New Concurrents: 4
+[Mon, 02 Dec 2024 10:30:13 UTC] USER EDITED || User editor: root || User who was edited: mylo | What was changed: Concurrents | New Concurrents: 5
+[Mon, 02 Dec 2024 10:30:19 UTC] USER EDITED || User editor: root || User who was edited: mylo | What was changed: Max Time | New Max Time: 400 seconds
+[Mon, 02 Dec 2024 10:30:25 UTC] ROLES ADD || User editor: root || User who was edited: mylo | What was changed: Roles | Role added: lone
+[Mon, 02 Dec 2024 10:30:40 UTC] USER EDITED || User editor: root || User who was edited: mylo | What was changed: Expiry | Days Added: 9999.00 | New Expiry: 14795 days
+[Mon, 02 Dec 2024 14:18:08 UTC] ROLES ADD || User editor: retro || User who was edited: spigey | What was changed: Roles | Role added: lone
+[Mon, 02 Dec 2024 15:33:25 UTC] USER EDITED || User editor: ryim || User who was edited: luredd | What was changed: Max Time | New Max Time: 300 seconds
+[Mon, 02 Dec 2024 15:35:23 UTC] retro changed spigey's password to 33333
+[Mon, 02 Dec 2024 16:03:36 UTC] USER EDITED || User editor: ryim || User who was edited: vile | What was changed: Max Time | New Max Time: 300 seconds
+[Mon, 02 Dec 2024 16:07:03 UTC] USER EDITED || User editor: ryim || User who was edited: luredd | What was changed: Concurrents | New Concurrents: 5
+[Mon, 02 Dec 2024 17:06:44 UTC] USER EDITED || User editor: root || User who was edited: joy | What was changed: API Access | New API Access Status: true
+[Mon, 02 Dec 2024 19:51:29 UTC] USER ADDED (PRESET: gold-life) || User creator: retro || User who was created: tom
+[Mon, 02 Dec 2024 21:12:36 UTC] USER ADDED (PRESET: gold-life) || User creator: retro || User who was created: yuki
+[Mon, 02 Dec 2024 21:13:11 UTC] ROLES ADD || User editor: retro || User who was edited: yuki | What was changed: Roles | Role added: lone
+[Mon, 02 Dec 2024 21:31:59 UTC] USER ADDED || User creator: retro || Username: glwryapi | Password: 8b72cc6cd07fe64 | VIP: 1734903111 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: false | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 20 | Max Time: 100 | Concurrents: 1 | Locked: 0 | Plan Days: 20
+[Mon, 02 Dec 2024 21:33:17 UTC] USER EDITED || User editor: retro || User who was edited: glwryapi | What was changed: Username | New Username: ecrimesapi
+[Tue, 03 Dec 2024 07:31:39 UTC] USER ADDED || User creator: root || Username: gunship | Password: gunship | VIP: 1819524694 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 120
+[Tue, 03 Dec 2024 07:31:46 UTC] ROLES ADD || User editor: root || User who was edited: gunship | What was changed: Roles | Role added: lone
+[Tue, 03 Dec 2024 07:31:50 UTC] ROLES ADD || User editor: root || User who was edited: gunship | What was changed: Roles | Role added: raw
+[Tue, 03 Dec 2024 15:10:51 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: yumeko
+[Tue, 03 Dec 2024 19:46:32 UTC] USER ADDED (PRESET: silver-month) || User creator: retro || User who was created: foxy
+[Tue, 03 Dec 2024 21:09:50 UTC] USER ADDED (PRESET: silver-life) || User creator: retro || User who was created: hyraky
+[Tue, 03 Dec 2024 21:25:05 UTC] USER EDITED || User editor: retro || User who was edited: hyraky | What was changed: VIP | New VIP Status: true
+[Tue, 03 Dec 2024 21:25:17 UTC] USER EDITED || User editor: retro || User who was edited: hyraky | What was changed: VIP | New VIP Status: true
+[Wed, 04 Dec 2024 03:41:02 UTC] USER EDITED || User editor: root || User who was edited: root | What was changed: Max Time | New Max Time: 86400 seconds
+[Wed, 04 Dec 2024 06:37:46 UTC] ROLES ADD || User editor: retro || User who was edited: y2k | What was changed: Roles | Role added: raw
+[Wed, 04 Dec 2024 13:03:48 UTC] USER EDITED || User editor: retro || User who was edited: y2k | What was changed: Max Time | New Max Time: 7200 seconds
+[Wed, 04 Dec 2024 16:35:57 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: gustigost
+[Wed, 04 Dec 2024 18:11:00 UTC] USER ADDED (PRESET: gold-life) || User creator: retro || User who was created: schwakau
+[Wed, 04 Dec 2024 18:12:02 UTC] USER EDITED || User editor: retro || User who was edited: yuki | What was changed: Concurrents | New Concurrents: 2
+[Wed, 04 Dec 2024 18:12:08 UTC] USER EDITED || User editor: retro || User who was edited: yuki | What was changed: Cooldown | New Cooldown: 0 seconds
+[Wed, 04 Dec 2024 20:12:35 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: trial
+[Wed, 04 Dec 2024 20:12:47 UTC] USER EDITED || User editor: retro || User who was edited: trial | What was changed: Expiry | New Expiry: 1.00 days
+[Thu, 05 Dec 2024 05:16:16 UTC] USER ADDED || User creator: root || Username: Banned | Password: Nigger1234 | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 400 | Concurrents: 4 | Locked: 0 | Plan Days: 9999
+[Thu, 05 Dec 2024 05:16:22 UTC] ROLES ADD || User editor: root || User who was edited: Banned | What was changed: Roles | Role added: lone
+[Thu, 05 Dec 2024 05:34:21 UTC] USER EDITED || User editor: root || User who was edited: banned | What was changed: Locked | New Locked Status: true
+[Thu, 05 Dec 2024 06:29:37 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: vytx
+[Thu, 05 Dec 2024 06:29:54 UTC] USER ADDED || User creator: root || Username: vytx | Password: 09120912!Ab | VIP: 1819693789 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 4 | Locked: 0 | Plan Days: 9999
+[Thu, 05 Dec 2024 06:30:00 UTC] ROLES ADD || User editor: root || User who was edited: vytx | What was changed: Roles | Role added: lone
+[Thu, 05 Dec 2024 09:31:32 UTC] USER ADDED || User creator: root || Username: api4api | Password: api4api | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 200 | Concurrents: 3 | Locked: 0 | Plan Days: 60
+[Thu, 05 Dec 2024 09:32:04 UTC] ROLES ADD || User editor: root || User who was edited: api4api | What was changed: Roles | Role added: lone
+[Thu, 05 Dec 2024 09:44:32 UTC] USER ADDED || User creator: root || Username: who | Password: deltak | VIP: 1819705466 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 9999
+[Thu, 05 Dec 2024 09:44:42 UTC] ROLES ADD || User editor: root || User who was edited: who | What was changed: Roles | Role added: lone
+[Thu, 05 Dec 2024 09:48:47 UTC] ROLES ADD || User editor: root || User who was edited: who | What was changed: Roles | Role added: raw
+[Thu, 05 Dec 2024 10:22:26 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: who
+[Thu, 05 Dec 2024 13:29:22 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: yin
+[Thu, 05 Dec 2024 15:18:19 UTC] retro changed trial's password to 33333
+[Thu, 05 Dec 2024 20:55:20 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: chompie9511
+[Fri, 06 Dec 2024 02:00:50 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: vytx
+[Fri, 06 Dec 2024 02:31:24 UTC] ROLES ADD || User editor: root || User who was edited: blade | What was changed: Roles | Role added: priv
+[Fri, 06 Dec 2024 05:55:47 UTC] USER EDITED || User editor: root || User who was edited: blade | What was changed: Concurrents | New Concurrents: 10
+[Fri, 06 Dec 2024 05:56:10 UTC] USER EDITED || User editor: root || User who was edited: blade | What was changed: Max Time | New Max Time: 10000 seconds
+[Fri, 06 Dec 2024 06:42:13 UTC] USER EDITED || User editor: root || User who was edited: blade | What was changed: Bypass Blacklist | New Bypass Blacklist Status: true
+[Fri, 06 Dec 2024 07:33:39 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: comrejects
+[Fri, 06 Dec 2024 07:46:53 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: api4api
+[Fri, 06 Dec 2024 07:48:28 UTC] USER ADDED (PRESET: gold-month) || User creator: retro || User who was created: cost
+[Fri, 06 Dec 2024 18:24:19 UTC] USER EDITED || User editor: retro || User who was edited: organ | What was changed: Concurrents | New Concurrents: 4
+[Fri, 06 Dec 2024 23:49:54 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: roseapi
+[Sat, 07 Dec 2024 08:23:07 UTC] USER ADDED || User creator: retro || Username: richie | Password: money | VIP: 1819873376 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 1000 | Concurrents: 10 | Locked: 0 | Plan Days: 30
+[Sat, 07 Dec 2024 08:24:02 UTC] ROLES ADD || User editor: retro || User who was edited: richie | What was changed: Roles | Role added: raw
+[Sat, 07 Dec 2024 08:24:07 UTC] ROLES ADD || User editor: retro || User who was edited: richie | What was changed: Roles | Role added: lone
+[Sat, 07 Dec 2024 09:32:44 UTC] ROLES ADD || User editor: retro || User who was edited: richie | What was changed: Roles | Role added: priv
+[Sat, 07 Dec 2024 10:16:17 UTC] USER ADDED (PRESET: diamond-month) || User creator: retro || User who was created: nobita
+[Sat, 07 Dec 2024 10:17:59 UTC] retro changed nobita's password to nobita11
+[Sat, 07 Dec 2024 10:52:27 UTC] ROLES ADD || User editor: retro || User who was edited: nobita | What was changed: Roles | Role added: lone
+[Sat, 07 Dec 2024 11:28:03 UTC] USER EDITED || User editor: retro || User who was edited: richie | What was changed: Banned | New Banned Status: true
+[Sat, 07 Dec 2024 15:10:23 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: retro
+[Sat, 07 Dec 2024 15:16:52 UTC] USER ADDED || User creator: root || Username: retro | Password: 3334 | VIP: 1819898207 | Reseller: true | Mod: true | Admin: true | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 86400 | Concurrents: 5 | Locked: 0 | Plan Days: 9999
+[Sat, 07 Dec 2024 15:56:18 UTC] USER ADDED || User creator: root || Username: zerg | Password: zerg | VIP: 1819900571 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999
+[Sat, 07 Dec 2024 15:56:24 UTC] ROLES ADD || User editor: root || User who was edited: zerg | What was changed: Roles | Role added: lone
+[Sun, 08 Dec 2024 09:46:51 UTC] USER ADDED || User creator: root || Username: kobisapi | Password: kobisapi | VIP: 2147483647 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 400 | Concurrents: 4 | Locked: 0 | Plan Days: 9999
+[Sun, 08 Dec 2024 09:47:05 UTC] ROLES ADD || User editor: root || User who was edited: kobisapi | What was changed: Roles | Role added: lone
+[Sun, 08 Dec 2024 09:47:09 UTC] ROLES ADD || User editor: root || User who was edited: kobisapi | What was changed: Roles | Role added: raw
+[Sun, 08 Dec 2024 10:59:34 UTC] USER ADDED || User creator: root || Username: xorapi | Password: api4api | VIP: 1819969168 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 4 | Locked: 0 | Plan Days: 9999
+[Sun, 08 Dec 2024 10:59:42 UTC] ROLES ADD || User editor: root || User who was edited: xorapi | What was changed: Roles | Role added: raw
+[Sun, 08 Dec 2024 11:27:27 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: raw
+[Sun, 08 Dec 2024 11:27:34 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: lone
+[Sun, 08 Dec 2024 11:27:41 UTC] ROLES ADD || User editor: retro || User who was edited: retro | What was changed: Roles | Role added: priv
+[Sun, 08 Dec 2024 11:28:33 UTC] USER ADDED || User creator: retro || Username: bank | Password: kaxa | VIP: 1736249304 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 15 | Max Time: 60 | Concurrents: 1 | Locked: 0 | Plan Days: 30
+[Sun, 08 Dec 2024 12:06:31 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: api4api
+[Sun, 08 Dec 2024 12:43:50 UTC] USER REMOVED (CNC) || User remover: root || User who was removed: bank
+[Sun, 08 Dec 2024 13:03:42 UTC] USER ADDED (PRESET: titanium-life) || User creator: retro || User who was created: tosen
+[Sun, 08 Dec 2024 13:03:49 UTC] ROLES ADD || User editor: retro || User who was edited: tosen | What was changed: Roles | Role added: raw
+[Sun, 08 Dec 2024 14:59:58 UTC] USER EDITED || User editor: retro || User who was edited: xx3 | What was changed: API Access | New API Access Status: false
+[Sun, 08 Dec 2024 15:17:30 UTC] USER EDITED || User editor: retro || User who was edited: vile | What was changed: Banned | New Banned Status: true
+[Sun, 08 Dec 2024 17:07:58 UTC] USER EDITED || User editor: retro || User who was edited: vile | What was changed: Banned | New Banned Status: false
+[Sun, 08 Dec 2024 17:27:12 UTC] USER ADDED || User creator: retro || Username: nigger | Password: 1234 | VIP: 0 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 60 | Max Time: 120 | Concurrents: 1 | Locked: 0 | Plan Days: 9999
+[Sun, 08 Dec 2024 17:43:30 UTC] USER ADDED || User creator: retro || Username: bank | Password: kaxa | VIP: 0 | Reseller: false | Mod: false | Admin: false | API Access: true | Bypass Power Saving: false | Bypass Spam Protection: false | Bypass Blacklist: false | Bypass Soft Max Time: false | Theme: default | Max Daily Attacks: 1000 | Cooldown: 20 | Max Time: 60 | Concurrents: 1 | Locked: 0 | Plan Days: 30
+[Sun, 08 Dec 2024 18:39:57 UTC] USER EDITED || User editor: retro || User who was edited: bank | What was changed: VIP | New VIP Status: true
+[Sun, 08 Dec 2024 18:46:08 UTC] USER EDITED || User editor: retro || User who was edited: nigger | What was changed: Banned | New Banned Status: true
+[Sun, 08 Dec 2024 19:19:36 UTC] USER EDITED || User editor: retro || User who was edited: tom | What was changed: Banned | New Banned Status: true
+[Sun, 08 Dec 2024 19:52:12 UTC] USER ADDED (PRESET: diamond-month) || User creator: retro || User who was created: aoxhax
+[Sun, 08 Dec 2024 21:04:33 UTC] USER EDITED || User editor: retro || User who was edited: luredd | What was changed: Concurrents | New Concurrents: 6
+[Sun, 08 Dec 2024 21:04:42 UTC] USER EDITED || User editor: retro || User who was edited: luredd | What was changed: Max Time | New Max Time: 400 seconds
+[Mon, 09 Dec 2024 20:26:49 UTC] USER EDITED || User editor: retro || User who was edited: ecrimes | What was changed: Banned | New Banned Status: true
+[Mon, 09 Dec 2024 20:34:12 UTC] USER ADDED || User creator: retro || Username: test | Password: test | VIP: 2147483647 | Reseller: true | Mod: true | Admin: true | API Access: true | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown:  | Max Time: 123123 | Concurrents: 123123 | Locked: 0 | Plan Days: 1231232
+[Mon, 09 Dec 2024 20:34:40 UTC] USER EDITED || User editor: test || User who was edited: test | What was changed: Banned | New Banned Status: true
+[Mon, 09 Dec 2024 20:34:59 UTC] USER REMOVED (CNC) || User remover: retro || User who was removed: test
+[Tue, 10 Dec 2024 04:37:11 UTC] USER EDITED || User editor: root || User who was edited: kobisapi | What was changed: Banned | New Banned Status: true
+[Tue, 10 Dec 2024 04:59:38 UTC] USER ADDED || User creator: root || Username: kid | Password: kid1337 | VIP: 1820120373 | Reseller: false | Mod: false | Admin: false | API Access: false | Bypass Power Saving: true | Bypass Spam Protection: true | Bypass Blacklist: true | Bypass Soft Max Time: true | Theme: default | Max Daily Attacks: 1000 | Cooldown: 0 | Max Time: 120 | Concurrents: 2 | Locked: 0 | Plan Days: 999
+[Tue, 10 Dec 2024 04:59:45 UTC] ROLES ADD || User editor: root || User who was edited: kid | What was changed: Roles | Role added: lone
+[Tue, 10 Dec 2024 07:49:22 UTC] retro added 7 days to all users expiry
+[Tue, 10 Dec 2024 09:09:18 UTC] USER EDITED || User editor: root || User who was edited: kobisapi | What was changed: Banned | New Banned Status: false

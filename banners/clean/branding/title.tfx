@@ -1,0 +1,1 @@
+[ <<$spinner>> ] Lone V4 | Expiry: <<$user.time_until.expiry.fmt>>  | All Ongoing:  <<$total.ongoing>>/<<$max.slots>>  | Ongoing:  <<$user.ongoing>>/<<$user.concurrents>> | Online: <<$total.online>>
